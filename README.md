@@ -1,6 +1,6 @@
 Dear SFPC participants. 
 
-This is a work in progress for School for poetic computation, Spring 2014. This schedule is just for SFPC participants. Let's keep this just between us until we annouce teachers and guest speakers when we get everyone's confirmation. We will announce it on our social media sometime this week. 
+This is a work in progress for School for poetic computation, Spring 2014. This schedule is just for SFPC participants' eyes only. Let's keep this just between us until we annouce teachers and guest speakers when we get everyone's confirmation. We will announce it on our social media sometime this week. 
 
 We have a rock star line up of teachers and guest speakers. We are incredibly excited for you to meet them. Also keep in mind we will be shaping the program with your feedback, and there will be opportunities for you to lead a workshop or study group, which is best when it happens naturally.  
 
@@ -187,6 +187,6 @@ Open lettes
 Thanks for offering to teach at SFPC. We are hoping to communicate with you over next week to find best ways you can lead your class. We thought it would be useful to write some words of suggestion.  First, SFPC is a place which celebrates questions -- it's helpful to think of whatever topic you are bringing in terms of key questions other than instructions. Second, it's important to focus on the poetry, beauty in the method of artistic making. It's easy to focus on the technical aspects of the medium, how to, what to and etc. We want to try, as much as possible, to investigate the critical questions involved and the impractical, magical, more human centered qualities that can be achieved through computation.  In addition, contextualizing what you are doing in some sort of historical context is also helpful. Finally, the students at SFPC are attracted to the idea of creating a school together, they realize that this is a work in progress and are very open to alternative ways of working. We value collaboration and peer-to-peer exploration. Some of the best assignments have been building teaching tools and speculative design. We see them as future teachers as well as builders of new communities around this medium. 
 
 
-**Letter to our visitors **
+**Letter to our visitors**
 
 Thanks for offering to come speak at SFPC.  Here's some guidelines about speaking that might be helpful.  First, we will give students links to your projects (and talks) before hand and invite them to get familiar with your work outside of your talk -- this means you don't have to talk about your projects if you don't want to or use your normal decks / talks.  You can feel free to talk about other things, such as works that inspire you, how to make a living, challenges or difficulties in the field, top secret things you haven't told anyone before, behind the scenes stories, etc.  It's a small intensely curious group that love strikeouts as much as home-runs.  We typically have talks over meals, if possible, as this tends to make things more friendly.  We also will usually have a note-taker for your talk who will be using some online writing tool like hackpad. 
