@@ -37,8 +37,7 @@ PM: Casey Gollan
 ### 4.23 Wed
 AM: Zach
 
-Lunch with guest:  
-
+Lunch with guest:  Lev Manovich on Algorithm and poetry. 
 
 PM: Taeyoon  
 
@@ -46,15 +45,15 @@ PM: Taeyoon
 # Tools exploration 
 
 ### 4.24 Thur
-AM: Dahan + Zach + Taeyoon 
+AM: Dahan + Zach + Taeyoon + Tega  
 
-Lunch with guest Lev Manovich  
+Lunch with guest  
 
 
-PM: work time  
+PM: continued 
 
 ### 4.25 Fri 
-AM: Dahan + Taeyoon
+AM: Dahan + Taeyoon + Tega 
 
 PM: Gabriella Levine: Biometric design  
 
@@ -67,7 +66,7 @@ Free day
 Free day 
 
 ### 4.28 Mon
-AM: Zach
+AM: Dahan + Zach + Taeyoon + Tega 
 
 PM: Kaho Abe - Wearable for games   
 
