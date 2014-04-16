@@ -179,7 +179,7 @@ Rather than this project/challenge being the focus of the workshop, we are think
 * <a href="http://en.wikipedia.org/wiki/Kenneth_Goldsmith">Kenneth Goldsmith </a>
 * more tbd 
 
-Open lettes
+Open letters
 ---
 
 **Letter to our teachers**
