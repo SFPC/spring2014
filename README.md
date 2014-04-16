@@ -86,7 +86,7 @@ AM: Zach
 
 Lunch with guest: Jer Thorp and Ben Rubin from OCR  
 
-PM: Taeyoon + Dahan + Tega (various sessions) 
+PM: Tega- Toward poetic sensing  
 
 ###5.1 Thur
 AM: Lauren McCarthy + Kyle McDonald - Social hacking  
