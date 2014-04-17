@@ -1,59 +1,60 @@
-Dear SFPC participants. 
+School for poetic computation is a small artist-lead school to learn about computation through hands on workshop and conceptual investigation. The spring 2014 session runs for two weeks in Oribital, 155 Rivington street. Two weeks intensive will be lead by SFPC co-founders, Zach Lieberman and Taeyoon Choi along with SFPC alumni, Jonathan Dahan and Tega Brain. Teachers will be availiable to support participants through individual tutoring and collective brainstorming. Additionally, classes by Gabi Levine, Kaho Abe, Molmol Kuo, Lauren McCarthy and Kyle McDonald will provide opportunities to dive into specific topic and methods. There will be opportunities for participants to lead a workshop or study group. Casey Gollan, SFPC administrator, and Taeyoon will be the contact person regarding schedule and other logistics. 
 
-This is a work in progress for School for poetic computation, Spring 2014. This schedule is just for SFPC participants' eyes only. Let's keep this just between us until we annouce teachers and guest speakers when we get everyone's confirmation. We will announce it on our social media sometime this week. 
-
-We have a rock star line up of teachers and guest speakers. We are incredibly excited for you to meet them. Also keep in mind we will be shaping the program with your feedback, and there will be opportunities for you to lead a workshop or study group, which is best when it happens naturally.  
-
+This is a work in progress for School for poetic computation, Spring 2014. Once again, We are incredibly excited to have a rock star line up of teachers and guest speakers. 
 
 # 2 weeks schedule 
 
+4.20~5.4 2014, New York City
 
-Two weeks program comes down to 10 days of class. 
-
-- Day 1~3: Basics of Computation  
-- Day 4~6: Tools exploration 
-- Day 7~10: Code + Poetry
 
 Morning classes will happen 10 AM~ 12PM, Lunch between 12:30~1:30PM and afternoon class between 3~5PM. 
 
+All classes will be documented on sfpc hackpad and later published through our website. Moises Sanabria, SFPC alumni, will be in charge of documentation and web design. 
 
+Two weeks program comes down to 10 days of class. It will be structed in three main themes. Some schedule will be updated after first three days, according to needs of the participants. 
+
+- Day 1~3: Basics of Computation  
+- Day 4~7: Tools exploration 
+- Day 8~10: Code + Poetry
+
+
+# Basics of Computation 
 ### 4.20 Sun
 
 1 PM Greetings and social time 
 
 4~6 PM Lighting talk and dinner with SFPC alumni and community  
 
-# Basics of Computation 
-
 ### 4.21 Mon
-AM & PM: Zach Lieberman, Taeyoon Choi, Jonathan Dahan, Tega Brain
+AM & PM: Zach Lieberman, Taeyoon Choi, Jonathan Dahan
 
 ### 4.22 Tue
 AM: Zach
 
-PM: Casey Gollan 
+PM: Casey Gollan + Dahan 
 
 
 ### 4.23 Wed
 AM: Zach
 
-Lunch with guest:  Lev Manovich on Algorithm and poetry. 
+Lunch with guest:Lev Manovich   
 
-PM: Taeyoon  
+
+PM: Taeyoon      
 
 
 # Tools exploration 
 
 ### 4.24 Thur
-AM: Dahan + Zach + Taeyoon + Tega  
+AM: Dahan + Taeyoon + Tega + Zach   
 
-Lunch with guest  
+Lunch with guest 
 
 
-PM: continued 
+PM: work time  
 
 ### 4.25 Fri 
-AM: Dahan + Taeyoon + Tega 
+AM: Dahan + Tega+ Taeyoon
 
 PM: Gabriella Levine: Biometric design  
 
@@ -66,18 +67,19 @@ Free day
 Free day 
 
 ### 4.28 Mon
-AM: Dahan + Zach + Taeyoon + Tega 
+AM: Zach
 
 PM: Kaho Abe - Wearable for games   
 
-# Code + Poetry
 
 ### 4.29 Tue 
-AM: Zach  
+AM: Zach + Taeyoon  
 
 Lunch with guest 
 
 PM: Molmol Kuo - Urban Intervention 
+
+# Code + Poetry
  
 
 ### 4.30 Wed
@@ -85,7 +87,7 @@ AM: Zach
 
 Lunch with guest: Jer Thorp and Ben Rubin from OCR  
 
-PM: Tega- Toward poetic sensing  
+PM: Taeyoon + Dahan + Tega  
 
 ###5.1 Thur
 AM: Lauren McCarthy + Kyle McDonald - Social hacking  
@@ -94,9 +96,11 @@ PM: work time
 
 
 ### 5.2 Fri 
-AM: Lauren + Kyle - Social hacking  
+AM: work time 
 
-PM: Tea time with Masashi Kawamura (Party)
+Lunch with guest: Masashi Kawamura (Party)
+
+PM: Lauren + Kyle - Social hacking  
 
 ### 5.3 Saturday
 
@@ -110,7 +114,6 @@ Final event (open to the public with RSVP)
 6 PM: Poetry reading 
 
 Special guest: Kenneth Goldsmith 
-
 
 ----
 
