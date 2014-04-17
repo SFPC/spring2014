@@ -1,6 +1,6 @@
 School for poetic computation is a small artist-lead school to learn about computation through hands on workshop and conceptual investigation. The spring 2014 session runs for two weeks in Oribital, 155 Rivington street. Two weeks intensive will be lead by SFPC co-founders, Zach Lieberman and Taeyoon Choi along with SFPC alumni, Jonathan Dahan and Tega Brain. Teachers will be availiable to support participants through individual tutoring and collective brainstorming. Additionally, classes by Gabi Levine, Kaho Abe, Molmol Kuo, Lauren McCarthy and Kyle McDonald will provide opportunities to dive into specific topic and methods. There will be opportunities for participants to lead a workshop or study group. Casey Gollan, SFPC administrator, and Taeyoon will be the contact person regarding schedule and other logistics. 
 
-This is a work in progress for School for poetic computation, Spring 2014. Once again, We are incredibly excited to have a rock star line up of teachers and guest speakers. 
+This is a work in progress for School for poetic computation, Spring 2014. Once again, We are incredibly excited to have a rock star line up of teachers and guest speakers. Also check out our <a href="https://github.com/SFPC/spring2014/blob/master/letters/introduction.md"> first assignment </a> for the participants. 
 
 # 2 weeks schedule 
 
