@@ -8,7 +8,7 @@ Here is a quick introduction to help you get set up for sfpc.
 
 For your first assignment, we want you to think of a single question (or if need be, a series of questions) that will inform your two weeks at the school -- it can be practical, impractical, personal or universal, but it should be a question.  One of the first thing we do at SFPC is just sit as a group and list questions, as many questions as we can think of, and that really helps drive the school term.  For this shorter term, we'd like to have these two weeks be an attempt to answer (or dive) into a question that you have and try to develop some sort of answer or response.  The answer can be in the form of a poetic work, or in a  very practical tool, or even in the form of other questions -- but it will be helpful, since have a relatively short time, to have this identified.  At the end of the school term, depending on how things go, we'd like to publish a small journal documenting the questions and results of your research.  We also will have a final event for the public, which you can think of as a poetry reading, part performance, part demo where we will invite members of the public to come. 
 
-Please share your thought process on this hackpad. 
+Please share your thought process on this <a href="https://sfpc.hackpad.com/Spring-2014-questions-dCyW52sNETV">pad</a>. 
 
 ###Resource: 
 
