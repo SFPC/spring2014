@@ -28,10 +28,11 @@ During the two weeks, there are ten days of class. Classes will fall under three
 
 We'll update the schedule within the first several days according to needs of the participants.
 
-# Basics of Computation
+
+# Basics of Computation 
 ### 4.20 Sun
 
-1 PM Greetings and social time
+1 PM Greetings and social time 
 
 4~6 PM Lighting talk and dinner with SFPC alumni and community  
 
@@ -39,31 +40,27 @@ We'll update the schedule within the first several days according to needs of th
 AM & PM: Zach Lieberman, Taeyoon Choi, Jonathan Dahan
 
 ### 4.22 Tue
-AM: Zach
+AM: Zach 
 
-PM: Casey Gollan + Dahan
-
+PM: Casey Gollan + Dahan + Tega
 
 ### 4.23 Wed
 AM: Zach
 
-Lunch with guest:Lev Manovich
-
-
-PM: Taeyoon
-
-
-# Tools exploration
-
-### 4.24 Thur
-AM: Dahan + Taeyoon + Tega + Zach
-
 Lunch with guest
 
+PM: Taeyoon + Tega     
+
+# Tools exploration 
+
+### 4.24 Thur
+AM: Dahan + Taeyoon + Zach   
+
+Lunch with guest 
 
 PM: work time  
 
-### 4.25 Fri
+### 4.25 Fri 
 AM: Dahan + Tega+ Taeyoon
 
 PM: Gabriella Levine: Biometric design  
@@ -95,7 +92,7 @@ PM: Molmol Kuo - Urban Intervention
 ### 4.30 Wed
 AM: Zach
 
-Lunch with guest: Jer Thorp and Ben Rubin from OCR  
+Lunch with guest
 
 PM: Taeyoon + Dahan + Tega  
 
@@ -104,11 +101,10 @@ AM: Lauren McCarthy + Kyle McDonald - Social hacking
 
 PM: work time
 
-
 ### 5.2 Fri
 AM: work time
 
-Lunch with guest: Masashi Kawamura (Party)
+Lunch with guest 
 
 PM: Lauren + Kyle - Social hacking  
 
@@ -184,12 +180,7 @@ Rather than this project/challenge being the focus of the workshop, we are think
 ----
 ##Guest Speakers
 
-
-* <a href="http://www.manovich.net/">Lev Manovich </a>
-* <a href="http://blog.blprnt.com">Jer Thorp</a>, <a href="http://earstudio.com/ben-rubin/"> Ben Rubin </a>, <a href="http://o-c-r.org/">OCR </a>  
-* <a href="http://masakawa.com/"> Masashi Kawamura</a>, <a href="http://prty.jp/">PARTY</a>
-* <a href="http://en.wikipedia.org/wiki/Kenneth_Goldsmith">Kenneth Goldsmith </a>
-* more tbd
+We are working on inviting inspirational figures from diverse field and background to join us for lunch in select days. Feel free to contact us to schedule a visit. 
 
 Open letters
 ---
