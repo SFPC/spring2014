@@ -1,6 +1,6 @@
 # SFPC Spring 2014 Participants
 
-We are incredibly excited about this two week program! We have participants coming from as far as Japan, Korea, Thailand, and Australia with diverse experiences as artists, programmers, designers, curators, photographers, poets, interaction designers, architects and researchers.
+We are incredibly excited about this two week program! We have participants coming from as far as Japan, Korea, Thailand, and Australia with diverse experiences as artists, programmers, designers, curators, photographers, poets, interaction designers, architects, and researchers.
 
 ## [**Alex Zandi**](http://alexzandi.com) (New York, USA)
 
