@@ -13,7 +13,7 @@ During the two weeks, there are ten days of class. Classes will fall under three
 ### Daily Schedule for April 20 - May 4
 
 | Time | Block |
-| -- | -- |
+| ---- | ----- |
 | 10 AM~12PM | Morning classes |
 | 12:30~1:30PM | Lunch |
 | 3~5PM | Afternoon classes |
@@ -21,7 +21,7 @@ During the two weeks, there are ten days of class. Classes will fall under three
 ### Themes
 
 | Days | Theme |
-| -- | -- |
+| ---- | ----- |
 | Day 1~3 | Basics of Computation |
 | Day 4~7 | Exploration of Tools |
 | Day 8~10 | Code + Poetry |
