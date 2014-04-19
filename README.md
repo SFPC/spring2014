@@ -47,7 +47,7 @@ PM: Casey Gollan + Dahan + Tega
 ### 4.23 Wed
 AM: Zach
 
-Lunch with guest
+Lunch with guest: Lev Manovich 
 
 PM: Taeyoon + Tega     
 
@@ -62,6 +62,8 @@ PM: work time
 
 ### 4.25 Fri 
 AM: Dahan + Tega+ Taeyoon
+
+Lunch with guest: Becky Sterne 
 
 PM: Gabriella Levine: Biometric design  
 
@@ -82,7 +84,7 @@ PM: Kaho Abe - Wearable for games
 ### 4.29 Tue
 AM: Zach + Taeyoon  
 
-Lunch with guest
+Lunch with guest: Phoenix Perry 
 
 PM: Molmol Kuo - Urban Intervention
 
@@ -92,7 +94,7 @@ PM: Molmol Kuo - Urban Intervention
 ### 4.30 Wed
 AM: Zach
 
-Lunch with guest
+Lunch with guest: Jer Thorp and Ben Rubin from OCR
 
 PM: Taeyoon + Dahan + Tega  
 
@@ -104,7 +106,7 @@ PM: work time
 ### 5.2 Fri
 AM: work time
 
-Lunch with guest 
+Lunch with guest: Masa (Party) 
 
 PM: Lauren + Kyle - Social hacking  
 
@@ -180,7 +182,14 @@ Rather than this project/challenge being the focus of the workshop, we are think
 ----
 ##Guest Speakers
 
-We are working on inviting inspirational figures from diverse field and background to join us for lunch in select days. Feel free to contact us to schedule a visit. 
+
+* <a href="http://phoenixperry.com/">Phenix Perry </a>
+* <a href="http://sternlab.org/">Becky Sterne</a>
+* <a href="http://www.manovich.net/">Lev Manovich </a>
+* <a href="http://blog.blprnt.com">Jer Thorp</a>, <a href="http://earstudio.com/ben-rubin/"> Ben Rubin </a>, <a href="http://o-c-r.org/">OCR </a>  
+* <a href="http://masakawa.com/"> Masashi Kawamura</a>, <a href="http://prty.jp/">PARTY</a>
+* <a href="http://en.wikipedia.org/wiki/Kenneth_Goldsmith">Kenneth Goldsmith </a>
+* more tbd
 
 Open letters
 ---
