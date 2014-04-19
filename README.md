@@ -182,10 +182,9 @@ Rather than this project/challenge being the focus of the workshop, we are think
 ----
 ##Guest Speakers
 
-
-* <a href="http://phoenixperry.com/">Phenix Perry </a>
-* <a href="http://sternlab.org/">Becky Sterne</a>
 * <a href="http://www.manovich.net/">Lev Manovich </a>
+* <a href="http://sternlab.org/">Becky Sterne</a>
+* <a href="http://phoenixperry.com/">Phoenix Perry </a>
 * <a href="http://blog.blprnt.com">Jer Thorp</a>, <a href="http://earstudio.com/ben-rubin/"> Ben Rubin </a>, <a href="http://o-c-r.org/">OCR </a>  
 * <a href="http://masakawa.com/"> Masashi Kawamura</a>, <a href="http://prty.jp/">PARTY</a>
 * <a href="http://en.wikipedia.org/wiki/Kenneth_Goldsmith">Kenneth Goldsmith </a>
