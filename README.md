@@ -42,7 +42,7 @@ AM & PM: Zach Lieberman, Taeyoon Choi, Jonathan Dahan
 ### 4.22 Tue
 AM: Zach 
 
-PM: Casey Gollan + Dahan + Tega
+PM: Casey Gollan + Tega
 
 ### 4.23 Wed
 AM: Zach
@@ -54,7 +54,7 @@ PM: Taeyoon + Tega
 # Tools exploration 
 
 ### 4.24 Thur
-AM: Dahan + Taeyoon + Zach   
+AM: Dahan + Tega + Taeyoon 
 
 Lunch with guest 
 
@@ -84,7 +84,7 @@ PM: Kaho Abe - Wearable for games
 ### 4.29 Tue
 AM: Zach + Taeyoon  
 
-Lunch with guest: Phoenix Perry 
+Lunch with guest:
 
 PM: Molmol Kuo - Urban Intervention
 
