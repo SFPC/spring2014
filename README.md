@@ -54,7 +54,10 @@ PM: Taeyoon + Tega
 # Tools exploration 
 
 ### 4.24 Thur
-AM: Dahan + Tega + Taeyoon 
+AM:
+10~11am: Circuit and drawing lecture
+Dahan: Arduino session
+Taeyoon: Circuit session 
 
 Lunch with guest 
 
@@ -62,6 +65,9 @@ PM: work time
 
 ### 4.25 Fri 
 AM: Dahan + Tega+ Taeyoon
+10~11am: Circuit and drawing lecture
+11~1pm Tega: Artist writing workshop. 
+11~1pm: Circuit session 
 
 Lunch with guest: Becky Sterne 
 
