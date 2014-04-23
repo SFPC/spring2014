@@ -40,42 +40,34 @@ We'll update the schedule within the first several days according to needs of th
 AM & PM: Zach Lieberman, Taeyoon Choi, Jonathan Dahan
 
 ### 4.22 Tue
-AM: Zach 
+AM: Zach - programming basics 
 
-PM: Casey Gollan + Tega
+PM: Tega - processing
+Casey- github 
 
 ### 4.23 Wed
-AM: Zach
+AM: Taeyoon - Constrained writing  
 
 Lunch with guest: Lev Manovich 
 
-PM: Taeyoon + Tega     
+PM: Zach - command line tools, c++      
 
 # Tools exploration 
 
 ### 4.24 Thur
 
 AM:
-10~11am: Circuit and drawing lecture
-
-Dahan: Arduino session
-
-Taeyoon: Circuit session 
-
-Lunch with guest 
-
+10~12am: Taeyoon -  Circuit and drawing  
+ 
 PM: work time  
+Taeyoon - Circuit lab in two parts. 
+Dahan: Arduino, etc 
+
 
 ### 4.25 Fri 
 
-AM: Dahan + Tega+ Taeyoon
-
-10~11am: Circuit and drawing lecture
-
-11~1pm Tega: Artist writing workshop. 
-
-11~1pm: Circuit session 
-
+AM: Taeyoon - Circuit and drawing 
+  
 Lunch with guest: Becky Sterne 
 
 PM: Gabriella Levine: Biometric design  
@@ -89,13 +81,13 @@ Free day
 Free day
 
 ### 4.28 Mon
-AM: Zach
+AM: Zach 
 
 PM: Kaho Abe - Wearable for games
 
 
 ### 4.29 Tue
-AM: Zach + Taeyoon  
+AM: Taeyoon - circuit and drawing  
 
 Lunch with guest:
 
