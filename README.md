@@ -85,15 +85,14 @@ AM: Zach
 
 PM: Kaho Abe - Wearable for games
 
+# Code + Poetry
 
 ### 4.29 Tue
 AM: Taeyoon - circuit and drawing  
 
-Lunch with guest:
+PM:  
 
-PM: Molmol Kuo - Urban Intervention
-
-# Code + Poetry
+Happy hour with guest: Ishac Bertran
 
 
 ### 4.30 Wed
@@ -106,7 +105,7 @@ PM: Taeyoon + Dahan + Tega
 ###5.1 Thur
 AM: Lauren McCarthy + Kyle McDonald - Social hacking  
 
-PM: work time
+PM: Tega Brain + Taeyoon - Speculative history of computing 
 
 ### 5.2 Fri
 AM: work time
@@ -189,7 +188,7 @@ Rather than this project/challenge being the focus of the workshop, we are think
 
 * <a href="http://www.manovich.net/">Lev Manovich </a>
 * <a href="http://sternlab.org/">Becky Sterne</a>
-* <a href="http://phoenixperry.com/">Phoenix Perry </a>
+* <a href="http://ishback.com/">Ishac Betran</a>
 * <a href="http://blog.blprnt.com">Jer Thorp</a>, <a href="http://earstudio.com/ben-rubin/"> Ben Rubin </a>, <a href="http://o-c-r.org/">OCR </a>  
 * <a href="http://masakawa.com/"> Masashi Kawamura</a>, <a href="http://prty.jp/">PARTY</a>
 * <a href="http://en.wikipedia.org/wiki/Kenneth_Goldsmith">Kenneth Goldsmith </a>
