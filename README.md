@@ -88,10 +88,11 @@ PM: Kaho Abe - Wearable for games
 # Code + Poetry
 
 ### 4.29 Tue
-AM: Taeyoon - circuit and drawing  
+AM:  Zach, Taeyoon, Tega 
 
-PM:  
+PM:  Zach, Taeyoon, Tega 
 
+3~5pm Circuits lab with Taeyoon
 Happy hour with guest: Ishac Bertran
 
 
