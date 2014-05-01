@@ -92,15 +92,15 @@ AM & PM:  Zach, Taeyoon, Tega will be in school
 
 3~5pm Circuits lab with Taeyoon
 
-Happy hour with guest: Ishac Bertran
+Happy hour with guest: Ishac Bertran, Jon Wohl 
 
 
 ### 4.30 Wed
-AM: Zach
+AM: Tega + Zach
 
 Lunch with guest: Jer Thorp and Ben Rubin from OCR
 
-PM: Taeyoon + Dahan + Tega  
+PM:  Dahan + Tega  
 
 ###5.1 Thur
 AM: Lauren McCarthy + Kyle McDonald - Social hacking  
@@ -108,7 +108,7 @@ AM: Lauren McCarthy + Kyle McDonald - Social hacking
 PM: Tega Brain + Taeyoon - Speculative history of computing 
 
 ### 5.2 Fri
-AM: work time
+AM: Taeyoon - Drawing 
 
 Lunch with guest: Masa (Party) 
 
@@ -123,7 +123,7 @@ Free day
 
 Final event (open to the public with RSVP)
 
-6 PM: Poetry reading
+7 PM: Final event <a href="http://attending.io/events/sfpc-spring-2014/"> RSVP </a> 
 
 Special guest: Kenneth Goldsmith
 
