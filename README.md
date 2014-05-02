@@ -110,7 +110,7 @@ PM: Tega Brain + Taeyoon - Speculative history of computing
 ### 5.2 Fri
 AM: Taeyoon - Drawing 
 
-Lunch with guest: Masa (Party) 
+Lunch with guest: Masa and Qanta (Party) 
 
 PM: Lauren + Kyle - Social hacking  
 
